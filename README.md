@@ -9,8 +9,7 @@ Professional secure data wiping demonstration for trustworthy IT asset recycling
 - Professional audit trail
 - Multiple security levels
 
-## Live Demo
-[https://data-wiper-dashboard.streamlit.app](https://data-wiper-dashboard.streamlit.app)](https://data-wiper-fo4uijrtafjvb466styxuy.streamlit.app/#wiping-method)
+
 
 ## Technology Stack
 - Streamlit for web interface
